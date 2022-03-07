@@ -11,3 +11,8 @@ Week 2 :
 
 - Code gesture. Project nằm trong folder gesture
 ![image](https://user-images.githubusercontent.com/62579946/156116849-e248afc7-0e33-4d7c-84cd-5e529a32d649.png)
+
+
+Week 3 :    
+- Code lesson 10. Project nằm trong folder lesson10    
+![image](https://user-images.githubusercontent.com/62579946/156993923-dc52e6ca-c582-4f45-89cf-e3897f91aca9.png)
