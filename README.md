@@ -16,3 +16,7 @@ Week 2 :
 Week 3 :    
 - Code lesson 10. Project nằm trong folder lesson10    
 ![image](https://user-images.githubusercontent.com/62579946/156993923-dc52e6ca-c582-4f45-89cf-e3897f91aca9.png)
+
+
+- Code model. Project nằm ở trong folder model    
+![image](https://user-images.githubusercontent.com/62579946/157069846-1a8caaa7-0c0f-4694-8eb0-901eb5642051.png)
