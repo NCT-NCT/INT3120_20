@@ -20,3 +20,7 @@ Week 3 :
 
 - Code model. Project nằm ở trong folder model    
 ![image](https://user-images.githubusercontent.com/62579946/157069846-1a8caaa7-0c0f-4694-8eb0-901eb5642051.png)
+
+
+- Code navigator. Project nằm ở trong folder navigator    
+![image](https://user-images.githubusercontent.com/62579946/157165653-1cbd9ccf-8aa2-4fce-86da-3b6bd630919f.png)
