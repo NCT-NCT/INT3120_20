@@ -24,3 +24,7 @@ Week 3 :
 
 - Code navigator. Project nằm ở trong folder navigator    
 ![image](https://user-images.githubusercontent.com/62579946/157165653-1cbd9ccf-8aa2-4fce-86da-3b6bd630919f.png)
+
+
+- Code animation. Project nằm ở trong folder animation    
+![image](https://user-images.githubusercontent.com/62579946/157171447-e5aaf2c5-e2f1-406f-a211-2eb6ff075d49.png)
