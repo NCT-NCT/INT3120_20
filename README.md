@@ -32,3 +32,8 @@ Week 3 :
 
 - Code rest API. Project nằm ở trong folder product_rest_app
 ![image](https://user-images.githubusercontent.com/62579946/157592582-d44cbe17-3349-4bc0-a696-d089b92c8582.png)
+
+
+- Code bài 19. Project nằm ở trong folder product_localization_app
+![image](https://user-images.githubusercontent.com/62579946/157598490-65e2a374-8f51-4441-a766-82432c4ea23d.png)
+
